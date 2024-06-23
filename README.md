@@ -71,14 +71,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 
 
-### Steps to Create the README.md File
-
-1. **Open a text editor**: You can use any text editor of your choice (e.g., VS Code, Sublime Text).
-2. **Create a new file**: Save it as `README.md` in your project directory.
-3. **Copy and paste** the content above into the `README.md` file.
-4. **Save the file**.
-
-Once you have completed these steps, let me know, and we can move on to the next part, which is uploading your project to GitHub.
 
 
 
